@@ -1,4 +1,4 @@
-#Temperature conversion
+# Temperature conversion
 Simple tempertature conversion program.
 Celsius -> Fahrenheint
 Fahrenheint -> Celsius
